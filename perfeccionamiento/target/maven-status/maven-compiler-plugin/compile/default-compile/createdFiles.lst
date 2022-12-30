@@ -1,0 +1,4 @@
+com\mycompany\web\models\Cursos.class
+com\mycompany\web\models\AccionesCursos.class
+com\mycompany\web\servlets\VerServlet.class
+com\mycompany\web\servlets\InsertarServlet.class
